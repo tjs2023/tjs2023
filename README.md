@@ -1,5 +1,4 @@
 # About me
-<!--
 - 🔭 I’m currently working on a repository. 😂
 - 🌱 I’m currently learning about coding. 🐃
 - 🤔 I’m looking for help with coding.   🐔 
